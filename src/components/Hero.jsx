@@ -12,11 +12,9 @@ const Hero = () => {
             alt="Hero Section"
           />
           <div className="text-center lg:text-left lg:mr-10">
-            <h1 className="text-3xl lg:text-5xl font-bold mt-6 lg:mt-0">Rendy Agus S, S. TI.</h1>
+            <h1 className="text-3xl lg:text-5xl font-bold mt-6 lg:mt-0">Rusdy Rush</h1>
             <p className="py-6">
-              Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda
-              excepturi exercitationem quasi. In deleniti eaque aut repudiandae
-              et a id nisi.
+            I am a Frontend Engineer with experience in developing modern web applications using the latest technologies. I am skilled in using HTML, CSS, JavaScript, and various frameworks such as React to create responsive and interactive user interfaces. I have a strong interest in UI/UX design and always strive to implement best practices in every project I work on.
             </p>
             <button className="btn btn-primary">Hire Me</button>
           </div>

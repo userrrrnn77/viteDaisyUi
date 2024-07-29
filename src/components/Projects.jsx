@@ -23,7 +23,7 @@ const Projects = () => {
             <h2 className="card-title">Youtube Clone</h2>
             <p></p>
             <div className="card-actions justify-end">
-              <a href="https://renstube.vercel.app/">
+              <a href="#">
                 <button className="btn btn-primary">Visit Now</button>
               </a>
             </div>
@@ -37,7 +37,7 @@ const Projects = () => {
             <h2 className="card-title">Netflix Clone</h2>
             <p></p>
             <div className="card-actions justify-end">
-              <a href="https://netfilxbjir.vercel.app/">
+              <a href="#">
                 <button className="btn btn-primary">Visit Now</button>
               </a>
             </div>
@@ -51,7 +51,7 @@ const Projects = () => {
             <h2 className="card-title">Gemini Clone</h2>
             <p></p>
             <div className="card-actions justify-end">
-              <a href="https://rensbotai.vercel.app/">
+              <a href="#">
                 <button className="btn btn-primary">Visit Now</button>
               </a>
             </div>
@@ -65,7 +65,7 @@ const Projects = () => {
             <h2 className="card-title">Space Portfolio</h2>
             <p></p>
             <div className="card-actions justify-end">
-              <a href="https://personalweb-rens-v2.vercel.app/">
+              <a href="#">
                 <button className="btn btn-primary">Visit Now</button>
               </a>
             </div>
@@ -79,7 +79,7 @@ const Projects = () => {
             <h2 className="card-title">Simple Portfolio</h2>
             <p></p>
             <div className="card-actions justify-end">
-              <a href="https://personalweb-eight-gold.vercel.app/">
+              <a href="#">
                 <button className="btn btn-primary">Visit Now</button>
               </a>
             </div>
@@ -93,7 +93,7 @@ const Projects = () => {
             <h2 className="card-title">Edusity</h2>
             <p></p>
             <div className="card-actions justify-end">
-              <a href="https://edusity-rens-online.vercel.app/">
+              <a href="#">
                 <button className="btn btn-primary">Visit Now</button>
               </a>
             </div>
