@@ -1,10 +1,10 @@
 import React from "react";
-import youtubeClone from "../../../portfolio/2/public/renstube.png";
-import netflixClone from "../../../portfolio/2/public/netflix.png";
-import spacePort from "../../../portfolio/2/public/spaceportofolio.png";
-import portofolio from "../../../portfolio/2/public/rensport.png";
-import geminiClone from "../../../portfolio/2/public/rensbotai.png";
-import edusityAnjay from "../../../portfolio/2/public/edusity.png";
+import youtubeClone from "../../public/renstube.png";
+import netflixClone from "../../public/netflix.png";
+import spacePort from "../../public/spaceportofolio.png";
+import portofolio from "../../public/rensport.png";
+import geminiClone from "../../public/rensbotai.png";
+import edusityAnjay from "../../public/edusity.png";
 
 const Projects = () => {
   return (
